@@ -1,0 +1,12 @@
+/__pycache__/
+/.vscode/
+
+# don't want this leaked ;)
+/gentleman/conf/credentials.json
+
+## for now
+/xwing-data/
+
+## Database
+gentleman.db
+gentlemandb
