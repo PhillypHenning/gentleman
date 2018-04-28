@@ -1,0 +1,386 @@
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-8d8b, discord-sessions-prd-1-9 (Session ID: 5169eed05ec854372a328e3d6c53b741).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-xgft, discord-sessions-prd-1-16 (Session ID: bc3d3cc09e8481e61b0ea183804c2628).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-l3r0, discord-sessions-prd-1-15 (Session ID: c58d62404ab2bbba7570196d6a6a0fc6).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-n3b7, discord-sessions-prd-1-11 (Session ID: 06209d7143d9646fda8418b6ce90b522).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-sn1l, discord-sessions-prd-1-17 (Session ID: 2c431b32433903a0a811559f22dac6a4).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-kp9r, discord-sessions-prd-1-2 (Session ID: 6ef08fa17255a4a760c94c09bbe890ae).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-x3nz, discord-sessions-prd-1-6 (Session ID: 6164707ad0c12d3d37608b95a257f714).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-d305, discord-sessions-prd-1-20 (Session ID: 7475fcf7daecca4a56cd44f7e33414ed).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-306h, discord-sessions-prd-1-9 (Session ID: ec97fb849c40f1396ac2fb101c3b1cd4).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-6m0b, discord-sessions-prd-1-16 (Session ID: 6bf1115f8f228c40f0dfe995ac250af1).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-bdj3, discord-sessions-prd-1-8 (Session ID: e5824ef73bfd4aac575596dcc3827f85).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-87qx, discord-sessions-prd-1-10 (Session ID: 7c15ba3b615e562f279b3190d4d97f09).
+INFO:root:Inserting new post: ('437297106504646656', 'h', '2018-04-21')
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-4s03, discord-sessions-prd-1-1 (Session ID: a2367dbbf4934bc53cb5d37e69044541).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-7gn1, discord-sessions-prd-1-16 (Session ID: 3899a1e46260fe8aea9917288acf2633).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-95vt, discord-sessions-prd-1-15 (Session ID: 6a01db83af31ccaccce043535597628f).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-gb45, discord-sessions-prd-1-16 (Session ID: ce2450a985754426d70949ba2ba1b69a).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-06lr, discord-sessions-prd-1-20 (Session ID: 44a1789ff0c48e6b3cfe752b26924159).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-8d8b, discord-sessions-prd-1-18 (Session ID: 9587fe2fd66ad94cbac216321444b99e).
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<BotBase.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/ext/commands/bot.py:194> wait_for=<Future pending cb=[Task._wakeup()]> cb=[Client._do_cleanup.<locals>.when_future_is_done() at /home/phil/env/Gentlemen/lib/python3.5/site-packages/discord/client.py:505]>
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending coro=<WebSocketCommonProtocol.close() done, defined at /home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py:346> wait_for=<Future pending cb=[Task._wakeup()]> cb=[_wait.<locals>._on_completion() at /usr/lib/python3.5/asyncio/tasks.py:414]>
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-d305, discord-sessions-prd-1-16 (Session ID: d38e79eb286491681c31a73091ac0615).
+INFO:root:Inserting new post: ('437304546273001482', 'h', '2018-04-21')
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+INFO:discord.client:Cleaning up after 8 tasks
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-n3b7, discord-sessions-prd-1-15 (Session ID: a0836f246a9c03147956aae3e7161373).
+WARNING:websockets.protocol:Error in data transfer
+Traceback (most recent call last):
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 496, in transfer_data
+    msg = yield from self.read_message()
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 526, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 591, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 632, in read_frame
+    extensions=self.extensions,
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/framing.py", line 100, in read
+    data = yield from reader(2)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 670, in readexactly
+    block = yield from self.read(n)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 627, in read
+    yield from self._wait_for_data('read')
+  File "/usr/lib/python3.5/asyncio/streams.py", line 457, in _wait_for_data
+    yield from self._waiter
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+  File "/usr/lib/python3.5/asyncio/selector_events.py", line 662, in _read_ready
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO:discord.gateway:Websocket closed with 1006 (), attempting a reconnect.
+INFO:discord.shard:Got a request to RESUME the websocket at Shard ID 0.
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+INFO:discord.gateway:Shard ID 0 has sent the RESUME payload.
+INFO:discord.gateway:Shard ID 0 session has been invalidated.
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-srg7, discord-sessions-prd-1-7 (Session ID: 7e37ec83a849645c515bd09131c3bb34).
+WARNING:discord.gateway:Shard ID 0 has stopped responding to the gateway. Closing and restarting.
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:root:Testing databases
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-999f, discord-sessions-prd-1-13 (Session ID: 7d917f7f39cc2db92f322905332161d9).
+WARNING:websockets.protocol:Error in data transfer
+Traceback (most recent call last):
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 496, in transfer_data
+    msg = yield from self.read_message()
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 526, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 591, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 632, in read_frame
+    extensions=self.extensions,
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/framing.py", line 100, in read
+    data = yield from reader(2)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 670, in readexactly
+    block = yield from self.read(n)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 627, in read
+    yield from self._wait_for_data('read')
+  File "/usr/lib/python3.5/asyncio/streams.py", line 457, in _wait_for_data
+    yield from self._waiter
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+  File "/usr/lib/python3.5/asyncio/selector_events.py", line 662, in _read_ready
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO:discord.gateway:Websocket closed with 1006 (), attempting a reconnect.
+INFO:discord.shard:Got a request to RESUME the websocket at Shard ID 0.
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+INFO:discord.gateway:Shard ID 0 has sent the RESUME payload.
+INFO:discord.gateway:Shard ID 0 session has been invalidated.
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-qrzk, discord-sessions-prd-1-19 (Session ID: 90aa4c924f690b6888e5ac2cee86ba2c).
+WARNING:discord.gateway:Shard ID 0 has stopped responding to the gateway. Closing and restarting.
+WARNING:websockets.protocol:Error in data transfer
+Traceback (most recent call last):
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 496, in transfer_data
+    msg = yield from self.read_message()
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 526, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 591, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 632, in read_frame
+    extensions=self.extensions,
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/framing.py", line 100, in read
+    data = yield from reader(2)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 670, in readexactly
+    block = yield from self.read(n)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 627, in read
+    yield from self._wait_for_data('read')
+  File "/usr/lib/python3.5/asyncio/streams.py", line 457, in _wait_for_data
+    yield from self._waiter
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+  File "/usr/lib/python3.5/asyncio/selector_events.py", line 662, in _read_ready
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO:discord.gateway:Websocket closed with 1006 (), attempting a reconnect.
+INFO:discord.shard:Got a request to RESUME the websocket at Shard ID 0.
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+INFO:discord.gateway:Shard ID 0 has sent the RESUME payload.
+INFO:discord.gateway:Shard ID 0 session has been invalidated.
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-n3b7, discord-sessions-prd-1-2 (Session ID: d6baa700226413c78d934d414f2d3139).
+WARNING:discord.gateway:Shard ID 0 has stopped responding to the gateway. Closing and restarting.
+WARNING:websockets.protocol:Error in data transfer
+Traceback (most recent call last):
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 496, in transfer_data
+    msg = yield from self.read_message()
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 526, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 591, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 632, in read_frame
+    extensions=self.extensions,
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/framing.py", line 100, in read
+    data = yield from reader(2)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 670, in readexactly
+    block = yield from self.read(n)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 627, in read
+    yield from self._wait_for_data('read')
+  File "/usr/lib/python3.5/asyncio/streams.py", line 457, in _wait_for_data
+    yield from self._waiter
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+  File "/usr/lib/python3.5/asyncio/selector_events.py", line 662, in _read_ready
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO:discord.gateway:Websocket closed with 1006 (), attempting a reconnect.
+INFO:discord.shard:Got a request to RESUME the websocket at Shard ID 0.
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+INFO:discord.gateway:Shard ID 0 has sent the RESUME payload.
+INFO:discord.gateway:Shard ID 0 session has been invalidated.
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-q89h, discord-sessions-prd-1-20 (Session ID: ff3743ac170fb26a780034dba1239a1f).
+WARNING:discord.gateway:Shard ID 0 has stopped responding to the gateway. Closing and restarting.
+WARNING:websockets.protocol:Error in data transfer
+Traceback (most recent call last):
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 496, in transfer_data
+    msg = yield from self.read_message()
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 526, in read_message
+    frame = yield from self.read_data_frame(max_size=self.max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 591, in read_data_frame
+    frame = yield from self.read_frame(max_size)
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/protocol.py", line 632, in read_frame
+    extensions=self.extensions,
+  File "/home/phil/env/Gentlemen/lib/python3.5/site-packages/websockets/framing.py", line 100, in read
+    data = yield from reader(2)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 670, in readexactly
+    block = yield from self.read(n)
+  File "/usr/lib/python3.5/asyncio/streams.py", line 627, in read
+    yield from self._wait_for_data('read')
+  File "/usr/lib/python3.5/asyncio/streams.py", line 457, in _wait_for_data
+    yield from self._waiter
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+  File "/usr/lib/python3.5/asyncio/selector_events.py", line 662, in _read_ready
+    data = self._sock.recv(self.max_size)
+ConnectionResetError: [Errno 104] Connection reset by peer
+INFO:discord.gateway:Websocket closed with 1006 (), attempting a reconnect.
+INFO:discord.shard:Got a request to RESUME the websocket at Shard ID 0.
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+INFO:discord.gateway:Shard ID 0 has sent the RESUME payload.
+INFO:discord.gateway:Shard ID 0 session has been invalidated.
+INFO:discord.gateway:Shard ID 0 has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID 0 has connected to Gateway: gateway-prd-main-t5fq, discord-sessions-prd-1-13 (Session ID: bb736e80f41393a2c70a1b750823fe63).
+WARNING:discord.gateway:Shard ID 0 has stopped responding to the gateway. Closing and restarting.
+INFO:discord.client:Cleaning up event loop.
+INFO:discord.gateway:Websocket closed with 1000 (), cannot reconnect.

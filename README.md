@@ -37,7 +37,18 @@ Install the python packages that will be used for this project. *I would suggest
 ><> pip install -r requirements.txt
 ```
 
+Change the name of the credentials-example.json to credentials.json and fill in the parts that are missing. 
 
+```
+COMING SOON!
+```
+
+Next create the gentleman database.
+```
+><> cat db-schema.sql | sqlite3 gentleman.db
+```
+
+    
 The bot is now able to be run.
 ```
 ><> python3 gentleman.py

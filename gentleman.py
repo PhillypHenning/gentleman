@@ -1,13 +1,15 @@
 import discord
 import asyncio
-import platform
+# import platform # Not sure what I'm using this for.
 import json
 import sqlite3
+import logging as log
+from datetime import datetime
 
 from discord.ext.commands import Bot
 from discord.ext import commands
 
-#client = Bot(description="I am a Gentleman droid, made for your service. Beep Boop", command_prefix="$", pm_help = False)
+log.basicConfig(filename='gentleman/log/gentleman.log',level=log.INFO)
 
 class Gentleman(commands.AutoShardedBot):
 
@@ -25,13 +27,16 @@ class Gentleman(commands.AutoShardedBot):
 
     def check_database_status(self):
         c = conn.cursor()
+        log.info('Testing databases')
+
+        #Check the status of POST database.
         try:
-            c.execute("Select * from POST")
+            c.execute("Select * from POSTS")
 
         except sqlite3.OperationalError as e:
-            print('Could not connect to table. Make sure you have followed the README.md and create the tables.\n')
+            print('Could not connect to table. Make sure you have followed the README.md and create the tables.')
             raise e
-
+    
     async def on_ready(self):
         print('Logged in as')
         print(self.user.name)
@@ -41,14 +46,22 @@ class Gentleman(commands.AutoShardedBot):
     ## Monitoring & Moderation
     async def on_message(self, message):
         # Will be used for language monitoring
-        print('{}\n\tType of: {}\n\tMessage value: {}'.format(message, type(message), message.content))
+        pass
 
     async def on_reaction_add(self, reaction, user):
-        # TODO: Add this reaction to a list of reactions. 
-        # TODO: If the reaction is in the list, update the 'seen'
-        # TODO: If value goes over threshhold number post to facebook
-        # TODO: If post has already been posted don't do it twice.
-        pass
+        c = self.conn.cursor()
+        post = (str(reaction.message.id),)
+
+        c.execute("select * FROM POSTS where post_id=?", post)
+        if c.fetchone() == None and reaction.count >= 1: # TODO: CREATE A MORE DYNAMIC OPTION (25% of server member count) 
+            post = (post[0], str(reaction.message.content), datetime.now().strftime('%Y-%m-%d'))
+            
+            log.info('Inserting new post: {}'.format(post))
+            c.execute('insert into POSTS values(?,?,?)', post)
+            self.conn.commit()
+
+            # TODO: POST TO FACEBOOK
+        
 
 
 
@@ -60,5 +73,4 @@ if __name__ == '__main__':
     conn = sqlite3.connect('gentleman.db')
 
     bot = Gentleman(token, conn)
-    #bot.run()
-    print('success :)')
+    bot.run()
